@@ -1,0 +1,1093 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+      <title>form</title>
+      <style>
+#of
+        {
+         font-weight:bold;
+         border:1px solid blue;
+         font-size:40;
+         border-width:1px;
+         color:red;
+	 background-color:#3333ff;
+	 text-shadow:5px 5px 3px blue;
+        }
+#top
+        {
+	 color:#66cc33;
+         font-weight:bold;
+	 position:absolute; top:8px; left:300px;
+	 text-shadow:6px 6px 1px black;
+        }
+#red
+	{
+         color:red;
+	 text-shadow:5px 5px 3px blue;
+	}
+#sub
+	{
+	 font-weight:bold;
+         color:blue;
+	 text-shadow:5px 3px 2px black;
+	}
+#bg
+	{
+	 opacity:0.3;
+ 	 position:absolute; top:450px; left:10px;
+	}
+#bg2
+	{
+	 opacity:0.2;
+ 	 position:absolute; top:900px; left:350px;
+	}
+#yellow
+	{
+         color:yellow;#663333;
+	}
+#brown
+	{
+         color:#663333;
+	}
+#green
+	{
+ 	 background-color:#ffccff;
+         color:green;
+	}
+#blue
+	{
+         color:blue;
+	}
+#bbb
+	{
+	 background-color:silver;
+	}
+#bb
+	{
+	 background-color:#663300;
+	}
+      </style>
+ <meta charset="utf-8">
+ </head>
+ <body id="bbb">
+ <div id="bb">
+      <h1 id="heading1" class="header"><h1 id="bg" class="header"></h1><img src="/home/harshith/Desktop/feedback/" height="140px" style="allign-left" width="150px"><img src="/home/harshith/Desktop/feedback/banner1.jpg" style="float:right" height="148px" width="265px">
+      <font size="5"></div>
+<div id="top">
+<p>
+<center>V V Sangha's<br>
+Vivekananda College of Engineering and Technology<br>
+Affiliated to Visvesvaraya Technological University<br>
+Approved by AICTE New Delhi and Govt of Karnataka<br>
+</p>
+</div>
+<div id="of">
+<p>
+<center>
+ONLINE FEEDBACK
+</P>
+</div>
+<div id="brown">
+<table  border="1px" width="1280px">
+<tr>
+<th>Academic Year: 2014-15</th>
+<th>Dept:Computer science</th>
+<th>Sem:6</th>
+<th>Div:A</th>
+<th>Date:DD/MM/YYYY</th>
+</tr>
+</table>
+</div>
+<p><font size="3"><span id="red">
+Dear student, your opinion would help teacher to improve further. Please be impartial and sincere in assessment, do not reveal your identity. Enter the number(mentioned within the brackets) in the columns corresponding to the teachers name.
+</span></p>
+<div>
+<table  border="1px" width:30px>
+<tr id="blue">
+  <th>SL</th>
+  <th>SUBJECT(initial)</th>
+  <th>s1</th>
+  <th>s2</th>
+  <th>s3</th>
+  <th>s4</th>
+  <th>s5</th>
+  <th>s6</th>
+  <th>s7</th>
+  <th>s8</th>
+  <th>s9</th>
+  <th>TOTAL</th>
+</tr>
+</div>
+<div>
+<tr id="blue">
+  <th>NO</th>
+  <th>Name of the teacher(initial)</th>
+  <th>l1</th>
+  <th>l2</th>
+  <th>l3</th>
+  <th>l4</th>
+  <th>l5</th>
+  <th>l6</th>
+  <th>-</th>
+  <th>l7</th>
+  <th>l8</th>
+  <th></th>
+</tr>
+</div>
+<div>
+<tr>
+  <td>1</td>
+  <td>How punctual is the teacher to the classes?<br>
+  [1] Never comes on time [2] Frequently comes late [3] Occasionally comes late [4] Always on time</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>2</td>
+  <td>Does the teacher discuss/refer the lesson plan in her/his lecture classes?<br>
+  [1] Never refers [2] Occasionally refers [3] Frequently refers [4] Regularly refers</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>3</td>
+  <td>Is the teacher always well prepared to the lecture class?<br>
+  [1] Never [2] Only few times [3] Most of the times [4] Always</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>4</td>
+  <td>How does the teacher explain the subject?<br>
+  [1] Totally inadequate [2] Inadequate [3] Adequately well [4] Exceedingly well</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>5</td>
+  <td>How much opportunity does the teacher give for questions and discussions?<br>
+  [1] Never [2] Rarely [3] occasional [4] Ample opportunity</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>6</td>
+  <td>How continuty is maintained from class to class while teaching the subjects?<br>
+  [1] Poor [2] Satisfactory [3] Good [4] Excellent</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>7</td>
+  <td>Does the teacher facilitate you to think about the subject?<br>
+  [1] Never [2] Rarely [3] facilitating enough [4] Highly facilitating</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>8</td>
+  <td>How would you rate the communication skill level of the teacher?<br>
+  [1] Very poor [2] Poor [3] Good [4] Excellent</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>9</td>
+  <td>How much of the scheduled class time does the teacher use for teaching the relevant/usefull topics?<br>
+  [1] Below 50% [2] 60-80% [3] 80-90% [4] Above 90%</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>10</td>
+  <td>How would you rate the teachers control over class?<br>
+  [1] Always noisy and chaotic [2] Frequently class is disordered [3] Some order in the class [4] Maintains discipline by his/her presence</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>11</td>
+  <td>What is the attitude of the teacher towards students?<br>
+  [1] Appears to be indifferent to students [2] Avoids personal contact [3] sometimes sympathetic [4] Sympathetic and helpful</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>12</td>
+  <td>Have you ever felt that the teacher shows favoritism to some students?<br>
+  [1] Always [2] Frequently [3] occasionally [4] Never</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>13</td>
+  <td>Has the teacher motivated you to study the subject in depth?<br>
+  [1] Never [2] Rarely [3] Enough [4] Highly</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>14</td>
+  <td>Does the teacher take attendance regularly?<br>
+  [1] Never [2] Occasionaly [3] sometimes [4] yes</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td>15</td>
+  <td>Quality of the notes?<br>
+  [1] Never gives [2] Not usefull [3] Usefull [4] Good and very usefull</td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td><select>
+  <option value="n1">1</option>
+  <option value="n2">2</option>
+  <option value="n3">3</option>
+  <option value="n4">4</option>
+  </select></td>
+  <td></td>
+</tr>
+</div>
+<div>
+<tr>
+  <td></td>
+  <td>TOTAL</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</div>
+</table><br>
+<form method="link" action="cover.html"><input id="sub" type="submit" value="<<- BACK" class="submit">
+<form method="link" action=""><input id="sub" type="submit" value="SUBMIT ->>" class="submit"style="float:right"></form></form><br>
+<div id="green">
+<p>
+<center>Nehru Nagar, Puttur - 574 203, DK, Karnataka State - INDIA.<br>
+Phone :+91-8251-234555 Fax :+91-8251-236444, Web : www.vivekanandaedu.org, E-Mail: vcet puttur@yahoo.co.in
+</p>
+</div>
+</body>
